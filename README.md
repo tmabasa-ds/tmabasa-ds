@@ -2,9 +2,11 @@
 
 # Tiyani Mabasa
 
-**Data Scientist · Product Builder · Founder**
+**Data Scientist · Developer · Founder**
 
-*Turning messy data into useful products — from Johannesburg, South Africa.*
+*Building useful things with data, software, and a healthy suspicion of unnecessary complexity.*
+
+Johannesburg, South Africa
 
 [![Email](https://img.shields.io/badge/tiyani78%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tiyani78@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tiyanimabasa)
@@ -14,57 +16,50 @@
 
 ---
 
-## The short version
+## About me
 
-I’m a data scientist and product-minded engineer who likes work with a long tail: analysis that changes a decision, models that survive contact with reality, and software that people actually use.
+I’m a data scientist and developer who likes taking things all the way from raw data to something people can actually use.
 
-My toolkit spans applied statistics, machine learning, geospatial analysis, and full-stack development. The throughline is simple: take a messy problem, make it legible, then ship something useful.
+My background combines **Geology** with **Applied Mathematics & Statistics**. These days I work across machine learning, geospatial analysis, analytics, and full-stack development — with a bias toward work that solves a real problem rather than just producing another impressive-looking notebook.
 
-I’m currently building products through **Akili Tech** and growing **[CosmoCribs](https://cosmocribs.co.za)**, a property platform for the South African market.
+I’m currently building through **Akili Tech** and working on **[CosmoCribs](https://cosmocribs.co.za)**, a property platform for the South African market.
 
-> Less dashboard theatre. More useful systems.
+The throughline is simple: use the maths when it helps, write the software when it matters, and keep the result understandable.
 
-## A few numbers
+## What I’m working on
 
-| 26,877 | R181bn | 15,420 | 180+ |
-|---:|---:|---:|---:|
-| Cape Town listings mapped | Eskom overrun traced | insurance claims modelled | daily leads streamlined |
+### 🏠 CosmoCribs
 
-## Selected work
+A live property rental and sales marketplace built end-to-end with Next.js, TypeScript, Supabase, and Vercel. Landlords list directly, tenants browse and connect, and **View4Me** adds an on-site inspection layer for safer deposits.
 
-### 🏠 CosmoCribs — a property product, not just a portfolio piece
+### 📊 Data and machine learning
 
-A live rental and sales marketplace for South Africa, built end-to-end with Next.js, TypeScript, Supabase, and Vercel. Landlords list directly, tenants browse and connect, and **View4Me** adds an on-site inspection layer for safer deposits.
+- **[Cape Town’s Disappearing Rentals](https://github.com/tmabasa-ds/capetown-housing-analysis)** — mapping short-term rental pressure, displacement, and the affordability gap across 26,877 listings.
+- **[Medupi and Kusile](https://github.com/tmabasa-ds/eskom-cost-overruns)** — tracing South Africa’s R181bn power-station overrun through public data and visual analysis.
+- **[Gauteng Property Price Predictor](https://github.com/tmabasa-ds/gauteng-property-price-predictor)** — a transparent, locally calibrated machine-learning pipeline for residential property prices.
+- **[Vehicle Insurance Fraud Detection](https://github.com/tmabasa-ds/insurance-fraud-detection)** — imbalanced classification with SMOTE, threshold tuning, and metrics that reflect the real problem.
 
-### ⚙️ Data stories with teeth
-
-- **[Cape Town’s Disappearing Rentals](https://github.com/tmabasa-ds/capetown-housing-analysis)** — geospatial analysis of short-term rentals, displacement pressure, and the affordability gap.
-- **[Medupi and Kusile](https://github.com/tmabasa-ds/eskom-cost-overruns)** — a visual investigation into South Africa’s R181bn power-station overrun.
-
-### 🧠 Models with a point
-
-- **[Gauteng Property Price Predictor](https://github.com/tmabasa-ds/gauteng-property-price-predictor)** — transparent, locally calibrated machine learning for residential property prices.
-- **[Vehicle Insurance Fraud Detection](https://github.com/tmabasa-ds/insurance-fraud-detection)** — imbalanced classification with SMOTE, threshold tuning, and metrics that investigators can trust.
-
-### 📈 Operations, quietly upgraded
+### ⚡ Product and automation
 
 For VTC Africa, I built an internal lead-management platform that turned a manual workflow handling **180 high-intent leads a day** into a clean, searchable pipeline with one-click WhatsApp and email outreach.
 
-## What I work with
+## Toolbox
 
-| Data & modelling | Product engineering | Spatial & storytelling |
-|---|---|---|
-| Python · R · SQL · Pandas · NumPy · scikit-learn · XGBoost · statsmodels | TypeScript · Next.js · React · Supabase · Tailwind CSS · Vercel | GeoPandas · QGIS · ArcGIS · Folium · Power BI · Matplotlib |
+**Data and modelling** — Python · R · SQL · Pandas · NumPy · scikit-learn · XGBoost · statsmodels
 
-## The useful bit of my background
+**Product engineering** — TypeScript · Next.js · React · Supabase · Tailwind CSS · Vercel
 
-My academic roots are in **Geology** and **Applied Mathematics & Statistics**. That combination makes me comfortable with both the messiness of real-world data and the discipline needed to make good decisions from it.
+**Spatial and visual** — GeoPandas · QGIS · ArcGIS · Folium · Power BI · Matplotlib
 
-I’m based in Johannesburg and open to conversations around data science, analytics engineering, product-minded development, and thoughtful automation.
+## A little more
+
+I’m interested in problems with a real-world edge: housing, infrastructure, risk, operations, and the systems around them. I enjoy making complex things easier to see, explain, and act on.
+
+Open to conversations around data science, analytics engineering, product-minded development, and thoughtful automation.
 
 <div align="center">
 
-*Open to good problems, useful products, and the occasional beautifully over-engineered notebook.*
+*Data, products, and the occasional geospatial rabbit hole.*
 
 📬 [tiyani78@gmail.com](mailto:tiyani78@gmail.com)
 
